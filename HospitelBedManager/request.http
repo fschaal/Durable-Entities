@@ -1,0 +1,5 @@
+### Assign Room
+
+GET http://localhost:7071/api/AssignBed?bedNumber=55224
+
+###
